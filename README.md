@@ -7,8 +7,8 @@ Files:
 3. Direct Questioning Survey Questions: Survey questions for the direct questioning survey
 4. Crosswise Model Survey Questions: Survey questions for the crosswise model survey
 5. recode.fun: Function that recodes the survey responses for analysis
-6. cm_analysis1: Script file containing all of the analysis for the crosswise model
-7. dq_analysis1: Script file containing all of the analysis for direct questioning
+6. dq_analysis1: Script file containing all of the analysis for direct questioning
+7. cm_analysis1: Script file containing all of the analysis for the crosswise model
 
 Please Note:
 - Please download and save the datasets, recode function, and script files in the same location.
