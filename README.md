@@ -4,8 +4,8 @@ This repository includes all the files for my capstone project
 Files:
 1. Misuse of AI-RR-Student-Survey (Direct Questioning)_last: Dataset for the direct questioning survey
 2. Misuse of AI-RR-Student-Survey (Crosswise Model)_last: Dataset for the crosswise model survey
-3. Direct Questioning Survey: Survey questions for the direct questioning survey
-4. Crosswise Model Survey: Survey questions for the crosswise model survey
+3. Direct Questioning Survey Questions: Survey questions for the direct questioning survey
+4. Crosswise Model Survey Questions: Survey questions for the crosswise model survey
 5. recode.fun: Function that recodes the survey responses for analysis
 6. cm_analysis1: Script file containing all of the analysis for the crosswise model
 7. dq_analysis1: Script file containing all of the analysis for direct questioning
