@@ -15,4 +15,3 @@ Please Note:
 - To import the datasets into the script files, copy their file paths and paste them over the file path in the read_csv function.
 - Only run the crosswise model dataset in the cm_analysis1 script file and the direct questioning dataset in the dq_analysis1 script file.
 - Once the datasets have been imported, run the whole script files for the full analysis.
-- In the crosswise model, if the logistic regression model for student group chats (gc_mod) returns an error, run it again.
